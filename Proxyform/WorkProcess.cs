@@ -81,7 +81,7 @@ namespace proxyform
                             string port = Regex.Split(context[0].ToString(), ":")[1];
                             urlproxy = ip;
                             proxy = new WebProxy(ip, Int32.Parse(port));
-                            url = "http://mysticgirl.tk/checkip.php";
+                            url = "http://proxyscrapecheck.tk/checkip.php";
                                                     
                         }
                         catch (Exception)
