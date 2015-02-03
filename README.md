@@ -17,7 +17,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 # Using the code
 
-Download and compile it with visual studio c#
+Download and compile it with visual studio c# (NOTE : please add system.data.sqllite as reference and sqllite.interop.dll as file embeded in project )
 
 # NOTE
 if you are using this code into your software, please add "contribution to Mysticdrac"
