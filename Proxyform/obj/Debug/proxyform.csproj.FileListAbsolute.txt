@@ -1,5 +1,0 @@
-C:\Users\MASERIN987\Documents\proxyform\proxyform\obj\Debug\proxyform.csprojResolveAssemblyReference.cache
-C:\Users\MASERIN987\Documents\proxyform\proxyform\obj\Debug\proxyform.CustomBtn.resources
-C:\Users\MASERIN987\Documents\proxyform\proxyform\obj\Debug\proxyform.MainForm.resources
-C:\Users\MASERIN987\Documents\proxyform\proxyform\obj\Debug\proxyform.Properties.Resources.resources
-C:\Users\MASERIN987\Documents\proxyform\proxyform\obj\Debug\proxyform.csproj.GenerateResource.Cache
