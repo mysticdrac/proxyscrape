@@ -24,4 +24,4 @@ Download and compile it with visual studio c# (NOTE : please add system.data.sql
 
 
 # NOTE
-if you are using this code into your software, please add "contribution to Mysticdrac/MysticCode/savenirity"
+if you are using this code into your software, please add "Mysticdrac/MysticCode/savenirity" as participant
